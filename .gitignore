@@ -1,0 +1,3 @@
+# Log files can contain identifying info about my machine - keep them out of the repo
+demo.log
+*.log
